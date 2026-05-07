@@ -1,0 +1,12 @@
+{
+  "name": "academia-coaching-website",
+  "version": "1.0.0",
+  "description": "Academia Coaching Institute - Official Website",
+  "private": true,
+  "dependencies": {
+    "googleapis": "^140.0.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
